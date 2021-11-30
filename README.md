@@ -1,6 +1,6 @@
 # HBD-Template v0.2 (Archived)
 
-NOTE: This project is now archived. You can checkout the revamped version at [AnshumanMahato/Happy-Birthday-Card](https://github.com/AnshumanMahato/Happy-Birthday-Card.git)
+**NOTE: This project is now archived. You can checkout the revamped version at [AnshumanMahato/Happy-Birthday-Card](https://github.com/AnshumanMahato/Happy-Birthday-Card.git)**
 
 This is a template for a birthday card. In this version an FEATURES an additional haunted cemetery scene has been added. **Only mobile portrait view is available.**
 </br>
